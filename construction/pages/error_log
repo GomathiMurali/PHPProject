@@ -1,0 +1,14 @@
+[05-Nov-2019 13:43:19 UTC] PHP Notice:  Undefined index: supplier in /home/qr781kfdajum/public_html/ppf/pages/saveproduct.php on line 8
+[05-Nov-2019 13:43:19 UTC] PHP Notice:  Undefined index: categ in /home/qr781kfdajum/public_html/ppf/pages/saveproduct.php on line 10
+[05-Nov-2019 13:43:20 UTC] PHP Notice:  Undefined index: supplier in /home/qr781kfdajum/public_html/ppf/pages/saveproduct.php on line 8
+[05-Nov-2019 13:43:20 UTC] PHP Notice:  Undefined index: categ in /home/qr781kfdajum/public_html/ppf/pages/saveproduct.php on line 10
+[05-Nov-2019 13:49:59 UTC] PHP Notice:  Undefined index: supplier in /home/qr781kfdajum/public_html/ppf/pages/saveproduct.php on line 8
+[07-Nov-2019 06:35:46 UTC] PHP Notice:  Undefined index: groupname in /home/qr781kfdajum/public_html/ppf/pages/salesorder.php on line 315
+[07-Nov-2019 06:35:46 UTC] PHP Notice:  Undefined index: groupname in /home/qr781kfdajum/public_html/ppf/pages/salesorder.php on line 331
+[07-Nov-2019 06:35:46 UTC] PHP Notice:  Undefined variable: supp in /home/qr781kfdajum/public_html/ppf/pages/salesorder.php on line 498
+[07-Nov-2019 06:35:46 UTC] PHP Notice:  Undefined variable: duedate in /home/qr781kfdajum/public_html/ppf/pages/salesorder.php on line 498
+[07-Nov-2019 06:35:46 UTC] PHP Notice:  Undefined variable: phone in /home/qr781kfdajum/public_html/ppf/pages/salesorder.php on line 498
+[07-Nov-2019 06:37:21 UTC] PHP Notice:  Undefined variable: bankname in /home/qr781kfdajum/public_html/ppf/pages/printsalesorder.php on line 499
+[07-Nov-2019 06:37:21 UTC] PHP Notice:  Undefined variable: accno in /home/qr781kfdajum/public_html/ppf/pages/printsalesorder.php on line 500
+[07-Nov-2019 06:37:21 UTC] PHP Notice:  Undefined variable: branch in /home/qr781kfdajum/public_html/ppf/pages/printsalesorder.php on line 501
+[07-Nov-2019 06:37:21 UTC] PHP Notice:  Undefined variable: codeifsc in /home/qr781kfdajum/public_html/ppf/pages/printsalesorder.php on line 501
